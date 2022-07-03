@@ -1,4 +1,7 @@
 # GoSecretsDump
+Basic Clone Of Impacket Secrets Dump 
+
+
 Dump SAM And LSA Secrets With Golang.
 
 ## Install
